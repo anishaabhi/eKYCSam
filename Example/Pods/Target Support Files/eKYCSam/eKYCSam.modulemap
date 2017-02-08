@@ -1,0 +1,6 @@
+framework module eKYCSam {
+  umbrella header "eKYCSam-umbrella.h"
+
+  export *
+  module * { export * }
+}

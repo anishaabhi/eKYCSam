@@ -1,0 +1,16 @@
+PODS:
+  - eKYCSam (0.1.0)
+
+DEPENDENCIES:
+  - eKYCSam (from `../`)
+
+EXTERNAL SOURCES:
+  eKYCSam:
+    :path: ../
+
+SPEC CHECKSUMS:
+  eKYCSam: b7571ac1f6c2d0c594eacdc1c5b5fe7864e6b8c3
+
+PODFILE CHECKSUM: dc976ba8ed3d984ff36286a6a298e6d63d901a7b
+
+COCOAPODS: 1.2.0
