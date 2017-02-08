@@ -1,0 +1,6 @@
+use_frameworks!
+target 'eKYCSam_Tests' do
+  pod 'eKYCSam', :path => '../'
+  
+  
+end
