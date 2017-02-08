@@ -31,6 +31,8 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'eKYCSam/Classes/**/*'
+
+  s.resources = 'eKYCSam/Classes/FirstViewController.xib'
   
   # s.resource_bundles = {
   #   'eKYCSam' => ['eKYCSam/Assets/*.png']
